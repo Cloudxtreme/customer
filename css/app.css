@@ -1,0 +1,15 @@
+* {
+  -webkit-border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+    border-radius: 0 !important;
+}
+#charsleft{
+	float: right;
+	line-height: 39px;
+	color: inherit;
+	margin-right: 30px;
+}
+.panel-body{
+    margin: 0;
+    padding: 0;
+}
